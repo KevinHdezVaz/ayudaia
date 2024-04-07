@@ -1,0 +1,129 @@
+{
+  "identifier" : "8F3FCA3A",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6446245086",
+    "_developerTeamID" : "9J9XV5T2VN",
+    "_lastSynchronizedDate" : 700486289.40404797
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21271088",
+      "localizations" : [
+
+      ],
+      "name" : "Request Subscription",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "17.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6446248545",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited Question and  answer and ads free.",
+              "displayName" : "Monthly Subscription . ",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "quicklaI_monthly_1799",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "QuicklAI-Monthly",
+          "subscriptionGroupID" : "21271088",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "49.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6446248437",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited Question and  answer and ads free.",
+              "displayName" : "Quarterly Subscription . ",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "quicklaI_quarterly_4999",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : "QuicklAI-Quarterly",
+          "subscriptionGroupID" : "21271088",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6446245024",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited Question and  answer and ads free.",
+              "displayName" : "Weekly Subscription . ",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "quicklaI_weekly_499",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "QuicklAI-Weekly",
+          "subscriptionGroupID" : "21271088",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "99.99",
+          "familyShareable" : false,
+          "groupNumber" : 4,
+          "internalID" : "6446248520",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlimited Question and  answer and ads free.",
+              "displayName" : "Yearly Subscription . ",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "quicklaI_yearly_9999",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "QuicklAI-Yearly",
+          "subscriptionGroupID" : "21271088",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "447263179615",
+    "firebase_url": "https://ayudaia-default-rtdb.firebaseio.com",
+    "project_id": "ayudaia",
+    "storage_bucket": "ayudaia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447263179615:android:422a10d48b0a9049fa2cea",
+        "android_client_info": {
+          "package_name": "com.app.ayudai.kave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOk8E4pE9boDOhelj2mC_uCS3sLgsglRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
